@@ -1,8 +1,10 @@
 {
-  "accentColor": "#4e37c3",
-  "cssTheme": "AnuPpuccin",
+  "accentColor": "#b4b400",
+  "cssTheme": "Typewriter",
   "showViewHeader": true,
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "theme": "obsidian",
-  "textFontFamily": "Andika,New York Large"
+  "textFontFamily": "Andika,New York Large",
+  "showRibbon": true,
+  "baseFontSizeAction": true
 }

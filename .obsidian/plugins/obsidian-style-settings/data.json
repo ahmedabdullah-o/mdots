@@ -2,7 +2,7 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-teal",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-teal",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-yellow",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@ctp-custom-peach@@light": "#DD7F67",
   "anuppuccin-theme-settings@@ctp-custom-teal@@dark": "#598083",
@@ -80,5 +80,6 @@
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
-  "anuppuccin-theme-settings@@ctp-custom-subtext1@@dark": "#DB2121"
+  "anuppuccin-theme-settings@@ctp-custom-subtext1@@dark": "#DB2121",
+  "obsidian-typewriter@@active-line-highlight": true
 }
