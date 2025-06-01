@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiRoute",
+      "LiForward",
+      "RiRepeat2Line",
+      "LiBookTemplate",
+      "LiTerminal"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "10 App Dev./Productivity Apps": "FarLightbulb",
+  "10 App Dev.": "LiSmartphone",
+  "00 temp": "LiForward",
+  "20 Knowledge": "LiBrain",
+  "20 Knowledge/Books": "LiBookMarked",
+  "30 Education": "FarFaceTired",
+  "40 Ideas": "FarLightbulb",
+  "80 Chatbot Prompts": "LiTerminal",
+  "90 Templates": "LiBookTemplate",
+  "10 App Dev./Productivity Apps/Pastel - Habit Tracker": "RiRepeat2Line",
+  "10 App Dev./Productivity Apps/Pastel - Habit Tracker/Plan": "LiRoute"
+}

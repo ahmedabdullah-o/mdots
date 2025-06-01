@@ -1,0 +1,24 @@
+{
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "foldHeading": true,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 temp",
+  "trashOption": "local",
+  "attachmentFolderPath": "./attachments",
+  "userIgnoreFilters": [
+    "90 Templates/",
+    "80 Chatbot Prompts/"
+  ]
+}
